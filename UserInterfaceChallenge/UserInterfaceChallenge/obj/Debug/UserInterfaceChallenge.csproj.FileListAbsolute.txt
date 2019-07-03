@@ -1,0 +1,7 @@
+D:\C_Sharp_Curso\Challenges\User_Input_ok\UserInterfaceChallenge\UserInterfaceChallenge\bin\Debug\UserInterfaceChallenge.exe.config
+D:\C_Sharp_Curso\Challenges\User_Input_ok\UserInterfaceChallenge\UserInterfaceChallenge\bin\Debug\UserInterfaceChallenge.exe
+D:\C_Sharp_Curso\Challenges\User_Input_ok\UserInterfaceChallenge\UserInterfaceChallenge\bin\Debug\UserInterfaceChallenge.pdb
+D:\C_Sharp_Curso\Challenges\User_Input_ok\UserInterfaceChallenge\UserInterfaceChallenge\obj\Debug\UserInterfaceChallenge.csprojAssemblyReference.cache
+D:\C_Sharp_Curso\Challenges\User_Input_ok\UserInterfaceChallenge\UserInterfaceChallenge\obj\Debug\UserInterfaceChallenge.csproj.CoreCompileInputs.cache
+D:\C_Sharp_Curso\Challenges\User_Input_ok\UserInterfaceChallenge\UserInterfaceChallenge\obj\Debug\UserInterfaceChallenge.exe
+D:\C_Sharp_Curso\Challenges\User_Input_ok\UserInterfaceChallenge\UserInterfaceChallenge\obj\Debug\UserInterfaceChallenge.pdb
